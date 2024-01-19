@@ -1,0 +1,9 @@
+{
+  "interface": "127.0.0.1",
+  "port": "8000",
+  "comment_remover": {
+    "html": true,
+    "js": true,
+    "css": true
+  }
+}
